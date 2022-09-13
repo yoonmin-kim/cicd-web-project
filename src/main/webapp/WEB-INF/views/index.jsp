@@ -3,7 +3,7 @@
 <html>
 <body>
     <h2>It's working on Tomcat server(9.0.65)</h2>
-    <h2>Hello Yoonmin!</h2>
+    <h2>Hello Yoonmin! (이게 보이면 Poll SCM 성공!)</h2>
     <hr>
     <h1>${msg}</h1>
     <h1>Have a nice day.</h1>
